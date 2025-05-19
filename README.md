@@ -16,7 +16,7 @@ This Raspberry Pi project displays the current time and local temperature on an 
 ### Tools & Technologies:
  - Raspberry Pi (any model with internet access)
 
- - Python (working) and C (trying to make it work using [uLibC](https://uclibc.org/))
+ - Python (working) and C (trying to make it to work using [uLibC](https://uclibc.org/))
 
  - LCD display (I2C compatible)
 
