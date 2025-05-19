@@ -1,0 +1,5 @@
+F:/Pico/led-8seg/build/elf2uf2/CMakeFiles/elf2uf2.dir
+F:/Pico/led-8seg/build/elf2uf2/CMakeFiles/edit_cache.dir
+F:/Pico/led-8seg/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+F:/Pico/led-8seg/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+F:/Pico/led-8seg/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir

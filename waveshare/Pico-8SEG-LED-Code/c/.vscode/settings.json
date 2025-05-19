@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "led_8seg_test.h": "c",
+        "led_8seg.h": "c"
+    }
+}
