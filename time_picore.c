@@ -9,9 +9,9 @@
 #include <json-c/json.h>
 #include <sys/stat.h>
 
-#define API_KEY     "f96a8d9254b8190100653a337a99badc"
-#define LAT 		"47.6854"
-#define LON 		"-122.1621"
+#define API_KEY     "aaaa"
+#define LAT 		"47.68"
+#define LON 		"-122.16"
 #define UNITS       "imperial"
 #define API_URL_FMT "http://api.openweathermap.org/data/2.5/weather?lat=%s&lon=%s&appid=%s&units=%s"
 
