@@ -20,7 +20,7 @@ This Raspberry Pi project displays the current time and local temperature on an 
 
  - LCD display (I2C compatible)
 
- - ntplib for NTP synchronization
+ - NTP synchronization
 
  - requests for OpenWeather API calls
 
