@@ -10,17 +10,19 @@ This Raspberry Pi project displays the current time and local temperature on an 
  - Live Temperature Updates: The Raspberry Pi queries the OpenWeather API at regular intervals to fetch the current temperature for a specified location (my home office in the example).
 
  - LCD Display Output: A 16x2 LCD, with I2C interface, is used to display the time and temperature in a readable format.
+   - https://rplcd.readthedocs.io/en/stable/getting_started.html
 
  - Automatic Refresh: Both time and temperature are updated automatically, with customizable intervals.
 
 ### Tools & Technologies:
  - Raspberry Pi (any model with internet access)
 
- - Python (working) and C (trying to make it work using [uLibC](https://uclibc.org/))
+ - Python (working) and C (trying to make it to work using [uLibC](https://uclibc.org/))
+   - The goal is to use a RPI already running [piCorePlayer](https://www.picoreplayer.org/) 
 
  - LCD display (I2C compatible)
 
- - ntplib for NTP synchronization
+ - NTP synchronization
 
  - requests for OpenWeather API calls
 
