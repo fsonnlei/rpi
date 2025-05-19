@@ -4,6 +4,8 @@
 
 This Raspberry Pi project displays the current time and local temperature on an LCD screen, making use of network connectivity for real-time accuracy. The system synchronizes time using the Network Time Protocol (NTP) and fetches current weather data from the OpenWeather API.
 
+![alt text](https://github.com/fsonnlei/rpi/blob/esp32/IMG_20250519_132921.jpg)
+
 ### Key Features:
  - Real-Time Clock: Time is synchronized via NTP, ensuring it stays accurate even after power cycles or reboots.
 
